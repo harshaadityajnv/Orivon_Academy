@@ -1,0 +1,7 @@
+{
+  "name": "Copy of AI Proctoring LMS",
+  "description": "A prototype of a Learning Management System with a live, AI-powered proctoring module. This application uses your webcam to monitor for potential cheating behaviors during an exam session using the Gemini API.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
